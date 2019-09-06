@@ -1,0 +1,14 @@
+contributing.md
+.eslintrc
+.babelrc
+.prettierrc.json
+
+.vscode/
+.github/
+.history/
+node_modules/
+
+logs/
+dist/
+docs/
+data/
